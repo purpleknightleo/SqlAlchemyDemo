@@ -1,0 +1,1 @@
+Simple demo for SqlAlchemy as Python ORM to implement CRUD
